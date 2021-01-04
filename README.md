@@ -1,7 +1,7 @@
-### Hi there 👋
-🌱 I am learning to create websites and computer stories.
-                                                    📫 How to reach me: <i class="fab fa-instagram" href="https://www.instagram.com/born.sj/"></i> 
-<!--
+## Hi there 👋
+####🌱 I am learning to create websites and computer stories.
+                                                    ####📫 How to reach me: https://www.instagram.com/born.sj/ 
+                                                                            sumitball.junyusen@gmail.com
 **SJBALL5308/SJBALL5308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
