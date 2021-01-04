@@ -1,7 +1,7 @@
-## Hi there 👋
-####🌱 I am learning to create websites and computer stories.
-                                                    ####📫 How to reach me:  [![Markdown Here logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png) ](https://www.instagram.com/born.sj/)
-                                                                            sumitball.junyusen@gmail.com
+## Hi there 👋<br>
+####🌱 I am learning to create websites and computer stories.<br>
+                                                   <center> ####📫 How to reach me:  [![Markdown Here logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png) ](https://www.instagram.com/born.sj/)<br>
+                                                                            sumitball.junyusen@gmail.com</center>
 <!--
 **SJBALL5308/SJBALL5308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
