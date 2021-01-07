@@ -2,6 +2,5 @@
 ## Hi there 👋<br>
 ###🌱 I am learning to create websites and computer stories.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SJBALL5308&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
