@@ -1,7 +1,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="สวัสดีชาวโลก" style="max-width:100%;"></a></p>
 ## Hi there 👋<br>
 ###🌱 I am learning to create websites and computer stories.<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)]
                                                <!--   #📫 How to reach me:<br>
 [![Markdown Here logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png) ](https://www.instagram.com/born.sj/)
 [![Markdown Here logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/200px-Facebook_Logo_%282019%29.svg.png) ](https://www.facebook.com/ball.sj2546/)
